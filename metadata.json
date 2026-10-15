@@ -1,0 +1,6 @@
+{
+  "name": "AFA AI Developer — AI Engineering & Solutions Portfolio",
+  "description": "Official portfolio of AFA AI Developer showcasing production AI systems, autonomous agents, LLMs, computer vision, and client AI solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
